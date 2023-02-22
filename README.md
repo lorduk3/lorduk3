@@ -1,11 +1,6 @@
 ### Hi there 👋
 #### Computer Engineer 💻
 
-<h1 align = "center">Tantaro Giulio 📖</h1>
-
-<div align = "center">
-
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Tantaro%20Giulio-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/giulio-tantaro-7a4ab4139/)
 
 <h2></h2>
