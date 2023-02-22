@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### Computer Engineer 💻
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Prijal%20Bista-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/giulio-tantaro-7a4ab4139/)
+
 
 <!--
 **lorduk3/lorduk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
